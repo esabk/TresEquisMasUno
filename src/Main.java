@@ -4,6 +4,8 @@
    Please call one of the next functions in class Main.
    Temu(int): calculate numbers e iterations
    nNumeros(Int): Calculate 3x+a for n numbers since this number.
+
+   Code by: Eddy Santiago AB
 */
 
 
@@ -90,6 +92,5 @@ public class Main {
         }
 
     }
-
     
 }
